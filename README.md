@@ -54,10 +54,29 @@ The following results are presented at the end of the simulation:
 
 PSNR of recalled pattern for images:
 
-- noisy training image with 80% Gaussian noise: 17.5825
-- noisy training image with 40% "Salt and Pepper" noise: 16.8161
-- another photo: 8.4843 
-- spatial uniform noise: 6.9498 
+ <table>
+        </tr>
+        <tr style="text-align: center;">
+            <td>test image</td>
+            <td>PSNR</td>
+        </tr>
+        <tr style="text-align: center;">
+            <td>noisy training image with 80% Gaussian noise</td>
+            <td>17.5825</td>
+        </tr>
+        <tr style="text-align: center;">
+            <td>noisy training image with 40% "Salt and Pepper" noise</td>
+            <td>16.8161</td>
+        </tr>
+        <tr style="text-align: center;">
+            <td>another photo</td>
+            <td>8.4843</td>
+        </tr>
+        <tr style="text-align: center;">
+            <td>spatial uniform noise</td>
+            <td>6.9498</td>
+        </tr>
+    </table>
 
 ### Parameters
 
