@@ -109,7 +109,3 @@ Yuliya A. Tsybina, Innokentiy A. Kastalskiy, Mikhail I. Krivonosov, Victor B. Ka
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* We acknowledge 
