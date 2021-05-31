@@ -51,7 +51,8 @@ for i = 1 : n
 end
 
 if is_test
-    V_line = shiftdim(model.V_line(:,model.T_Iapp(1,1):model.T_Iapp(1,1)+params.after_sample_frames_test));
+    V_line = shiftdim(model.V_line(:,model.T_Iapp(1,1):model.T_Iapp(1,1)+ ...
+        params.after_sample_frames_test));
 else
     V_line = shiftdim(model.V_line(:,model.T_Iapp(1,1):model.T_Iapp(1,2)));
 end

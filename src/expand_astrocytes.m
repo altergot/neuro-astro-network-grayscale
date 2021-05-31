@@ -1,4 +1,5 @@
-function [Iastro_neuron_expanded, Iastro_neuron] = expand_astrocytes(Ca, Iastro_neuron, neurons_activity,i)
+function [Iastro_neuron_expanded, Iastro_neuron] = ...
+    expand_astrocytes(Ca, Iastro_neuron, neurons_activity,i)
 
 params = model_parameters();
 
