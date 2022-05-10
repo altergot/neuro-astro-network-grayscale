@@ -104,6 +104,7 @@ File model_parameters.m consists of multiple parameter sections described in the
 ## Cite
 
 Astrocytes mediate analogous memory in a multi-layer neuron–astrocyte network
+
 Yuliya A. Tsybina, Innokentiy A. Kastalskiy, Mikhail I. Krivonosov, Alexey Zaikin, Victor B. Kazantsev, Alexander N. Gorban and Susanna Yu. Gordleeva
 https://doi.org/10.1007/s00521-022-06936-9
 
