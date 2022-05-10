@@ -103,8 +103,9 @@ File model_parameters.m consists of multiple parameter sections described in the
 
 ## Cite
 
-Coloured memory in spiking neuron network accompanied by astrocytes
-Yuliya A. Tsybina, Innokentiy A. Kastalskiy, Mikhail I. Krivonosov, Victor B. Kazantsev and Susanna Yu. Gordleeva
+Astrocytes mediate analogous memory in a multi-layer neuron–astrocyte network
+Yuliya A. Tsybina, Innokentiy A. Kastalskiy, Mikhail I. Krivonosov, Alexey Zaikin, Victor B. Kazantsev, Alexander N. Gorban and Susanna Yu. Gordleeva
+https://doi.org/10.1007/s00521-022-06936-9
 
 ## License
 
